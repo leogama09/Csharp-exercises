@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.AssemblyInfo.cs
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_3\Exercise_3\bin\Debug\net7.0\Exercise_3.exe
+D:\Projetos C#\Exercise_3\Exercise_3\bin\Debug\net7.0\Exercise_3.deps.json
+D:\Projetos C#\Exercise_3\Exercise_3\bin\Debug\net7.0\Exercise_3.runtimeconfig.json
+D:\Projetos C#\Exercise_3\Exercise_3\bin\Debug\net7.0\Exercise_3.dll
+D:\Projetos C#\Exercise_3\Exercise_3\bin\Debug\net7.0\Exercise_3.pdb
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.dll
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\refint\Exercise_3.dll
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.pdb
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\Exercise_3.genruntimeconfig.cache
+D:\Projetos C#\Exercise_3\Exercise_3\obj\Debug\net7.0\ref\Exercise_3.dll
