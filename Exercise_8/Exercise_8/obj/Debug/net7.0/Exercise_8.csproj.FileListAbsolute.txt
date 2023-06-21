@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_8\Exercise_8\bin\Debug\net7.0\Exercise_8.exe
+D:\Projetos C#\Exercise_8\Exercise_8\bin\Debug\net7.0\Exercise_8.deps.json
+D:\Projetos C#\Exercise_8\Exercise_8\bin\Debug\net7.0\Exercise_8.runtimeconfig.json
+D:\Projetos C#\Exercise_8\Exercise_8\bin\Debug\net7.0\Exercise_8.dll
+D:\Projetos C#\Exercise_8\Exercise_8\bin\Debug\net7.0\Exercise_8.pdb
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.AssemblyInfo.cs
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.dll
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\refint\Exercise_8.dll
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.pdb
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\Exercise_8.genruntimeconfig.cache
+D:\Projetos C#\Exercise_8\Exercise_8\obj\Debug\net7.0\ref\Exercise_8.dll
