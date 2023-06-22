@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_15\Exercise_15\bin\Debug\net7.0\Exercise_15.exe
+D:\Projetos C#\Exercise_15\Exercise_15\bin\Debug\net7.0\Exercise_15.deps.json
+D:\Projetos C#\Exercise_15\Exercise_15\bin\Debug\net7.0\Exercise_15.runtimeconfig.json
+D:\Projetos C#\Exercise_15\Exercise_15\bin\Debug\net7.0\Exercise_15.dll
+D:\Projetos C#\Exercise_15\Exercise_15\bin\Debug\net7.0\Exercise_15.pdb
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.AssemblyInfo.cs
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.dll
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\refint\Exercise_15.dll
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.pdb
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\Exercise_15.genruntimeconfig.cache
+D:\Projetos C#\Exercise_15\Exercise_15\obj\Debug\net7.0\ref\Exercise_15.dll
