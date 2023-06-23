@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_20\Exercise_20\bin\Debug\net7.0\Exercise_20.exe
+D:\Projetos C#\Exercise_20\Exercise_20\bin\Debug\net7.0\Exercise_20.deps.json
+D:\Projetos C#\Exercise_20\Exercise_20\bin\Debug\net7.0\Exercise_20.runtimeconfig.json
+D:\Projetos C#\Exercise_20\Exercise_20\bin\Debug\net7.0\Exercise_20.dll
+D:\Projetos C#\Exercise_20\Exercise_20\bin\Debug\net7.0\Exercise_20.pdb
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.AssemblyInfo.cs
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.dll
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\refint\Exercise_20.dll
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.pdb
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\Exercise_20.genruntimeconfig.cache
+D:\Projetos C#\Exercise_20\Exercise_20\obj\Debug\net7.0\ref\Exercise_20.dll
