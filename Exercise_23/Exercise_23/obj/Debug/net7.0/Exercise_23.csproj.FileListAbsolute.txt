@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.AssemblyInfo.cs
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_23\Exercise_23\bin\Debug\net7.0\Exercise_23.exe
+D:\Projetos C#\Exercise_23\Exercise_23\bin\Debug\net7.0\Exercise_23.deps.json
+D:\Projetos C#\Exercise_23\Exercise_23\bin\Debug\net7.0\Exercise_23.runtimeconfig.json
+D:\Projetos C#\Exercise_23\Exercise_23\bin\Debug\net7.0\Exercise_23.dll
+D:\Projetos C#\Exercise_23\Exercise_23\bin\Debug\net7.0\Exercise_23.pdb
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.dll
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\refint\Exercise_23.dll
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.pdb
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\Exercise_23.genruntimeconfig.cache
+D:\Projetos C#\Exercise_23\Exercise_23\obj\Debug\net7.0\ref\Exercise_23.dll
