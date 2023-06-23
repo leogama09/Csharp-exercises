@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_25\Exercise_25\bin\Debug\net7.0\Exercise_25.exe
+D:\Projetos C#\Exercise_25\Exercise_25\bin\Debug\net7.0\Exercise_25.deps.json
+D:\Projetos C#\Exercise_25\Exercise_25\bin\Debug\net7.0\Exercise_25.runtimeconfig.json
+D:\Projetos C#\Exercise_25\Exercise_25\bin\Debug\net7.0\Exercise_25.dll
+D:\Projetos C#\Exercise_25\Exercise_25\bin\Debug\net7.0\Exercise_25.pdb
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.AssemblyInfo.cs
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.dll
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\refint\Exercise_25.dll
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.pdb
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\Exercise_25.genruntimeconfig.cache
+D:\Projetos C#\Exercise_25\Exercise_25\obj\Debug\net7.0\ref\Exercise_25.dll
