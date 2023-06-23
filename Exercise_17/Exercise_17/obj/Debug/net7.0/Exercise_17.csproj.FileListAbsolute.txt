@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_17\Exercise_17\bin\Debug\net7.0\Exercise_17.exe
+D:\Projetos C#\Exercise_17\Exercise_17\bin\Debug\net7.0\Exercise_17.deps.json
+D:\Projetos C#\Exercise_17\Exercise_17\bin\Debug\net7.0\Exercise_17.runtimeconfig.json
+D:\Projetos C#\Exercise_17\Exercise_17\bin\Debug\net7.0\Exercise_17.dll
+D:\Projetos C#\Exercise_17\Exercise_17\bin\Debug\net7.0\Exercise_17.pdb
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.AssemblyInfo.cs
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.dll
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\refint\Exercise_17.dll
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.pdb
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\Exercise_17.genruntimeconfig.cache
+D:\Projetos C#\Exercise_17\Exercise_17\obj\Debug\net7.0\ref\Exercise_17.dll
