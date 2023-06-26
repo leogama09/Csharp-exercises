@@ -1,0 +1,15 @@
+D:\Projetos C#\Exercise_28\Exercise_28\bin\Debug\net7.0\Exercise_28.exe
+D:\Projetos C#\Exercise_28\Exercise_28\bin\Debug\net7.0\Exercise_28.deps.json
+D:\Projetos C#\Exercise_28\Exercise_28\bin\Debug\net7.0\Exercise_28.runtimeconfig.json
+D:\Projetos C#\Exercise_28\Exercise_28\bin\Debug\net7.0\Exercise_28.dll
+D:\Projetos C#\Exercise_28\Exercise_28\bin\Debug\net7.0\Exercise_28.pdb
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.AssemblyInfoInputs.cache
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.AssemblyInfo.cs
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.dll
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\refint\Exercise_28.dll
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.pdb
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\Exercise_28.genruntimeconfig.cache
+D:\Projetos C#\Exercise_28\Exercise_28\obj\Debug\net7.0\ref\Exercise_28.dll
